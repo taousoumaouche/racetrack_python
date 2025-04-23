@@ -44,7 +44,7 @@ README.md           # Ce fichier de présentation du projet
 ---
 ## Auteur
 Projet développé par **Oumaouche Taous**, étudiante en **L1 Informatique**.
----
+
 
 ## Licence  
 Ce projet est réalisé dans le cadre d’un projet éducatif.  
